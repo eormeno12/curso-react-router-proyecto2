@@ -1,10 +1,16 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './TodoSearch.css';
+import { useSearchParams } from 'react-router-dom';
 
 function TodoSearch({ searchValue, setSearchValue, loading }) {
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  const paramsValue = searchParams.get('search');
+
+  useEffect(() => {setSearchValue(paramsValue)}, [paramsValue])
+
   const onSearchValueChange = (event) => {
-    console.log(event.target.value);
-    setSearchValue(event.target.value);
+    setSearchParams({search: event.target.value })
   };
 
   return (
