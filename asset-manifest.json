@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/curso-react-router-proyecto2/static/css/main.cf90a811.chunk.css",
-    "main.js": "/curso-react-router-proyecto2/static/js/main.fc162098.chunk.js",
-    "main.js.map": "/curso-react-router-proyecto2/static/js/main.fc162098.chunk.js.map",
+    "main.css": "/curso-react-router-proyecto2/static/css/main.293dfe16.chunk.css",
+    "main.js": "/curso-react-router-proyecto2/static/js/main.d81d7ebc.chunk.js",
+    "main.js.map": "/curso-react-router-proyecto2/static/js/main.d81d7ebc.chunk.js.map",
     "runtime-main.js": "/curso-react-router-proyecto2/static/js/runtime-main.55dcab5f.js",
     "runtime-main.js.map": "/curso-react-router-proyecto2/static/js/runtime-main.55dcab5f.js.map",
-    "static/js/2.862683fe.chunk.js": "/curso-react-router-proyecto2/static/js/2.862683fe.chunk.js",
-    "static/js/2.862683fe.chunk.js.map": "/curso-react-router-proyecto2/static/js/2.862683fe.chunk.js.map",
+    "static/js/2.731fd53f.chunk.js": "/curso-react-router-proyecto2/static/js/2.731fd53f.chunk.js",
+    "static/js/2.731fd53f.chunk.js.map": "/curso-react-router-proyecto2/static/js/2.731fd53f.chunk.js.map",
     "index.html": "/curso-react-router-proyecto2/index.html",
-    "static/css/main.cf90a811.chunk.css.map": "/curso-react-router-proyecto2/static/css/main.cf90a811.chunk.css.map",
-    "static/js/2.862683fe.chunk.js.LICENSE.txt": "/curso-react-router-proyecto2/static/js/2.862683fe.chunk.js.LICENSE.txt",
+    "static/css/main.293dfe16.chunk.css.map": "/curso-react-router-proyecto2/static/css/main.293dfe16.chunk.css.map",
+    "static/js/2.731fd53f.chunk.js.LICENSE.txt": "/curso-react-router-proyecto2/static/js/2.731fd53f.chunk.js.LICENSE.txt",
     "static/media/check.fa4fb594.svg": "/curso-react-router-proyecto2/static/media/check.fa4fb594.svg",
     "static/media/delete.331149da.svg": "/curso-react-router-proyecto2/static/media/delete.331149da.svg",
     "static/media/edit.0f914696.svg": "/curso-react-router-proyecto2/static/media/edit.0f914696.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.55dcab5f.js",
-    "static/js/2.862683fe.chunk.js",
-    "static/css/main.cf90a811.chunk.css",
-    "static/js/main.fc162098.chunk.js"
+    "static/js/2.731fd53f.chunk.js",
+    "static/css/main.293dfe16.chunk.css",
+    "static/js/main.d81d7ebc.chunk.js"
   ]
 }
