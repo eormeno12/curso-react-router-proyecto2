@@ -1,6 +1,7 @@
 form {
   width: 90%;
   max-width: 300px;
+  margin: 0 auto;
   background-color: #fff;
   padding: 33px 40px;
   display: flex;
